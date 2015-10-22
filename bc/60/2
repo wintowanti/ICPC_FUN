@@ -1,0 +1,110 @@
+#include <cstdio>
+#include <iostream>
+#include <cstring>
+#include <vector>
+using namespace std;
+const int MX = 1e6+88;
+int is_prime[MX];
+vector< int > prime_key;
+void init(){
+    memset(is_prime,0,sizeof(is_prime));
+    is_prime[0] = is_prime[1] = 1;
+    for(int i = 2; i < MX; i++){
+        if(is_prime[i] == 0){
+            for(int j = 2; i*j < MX; j++){
+                is_prime[i *j ] = 1;
+            }
+        }
+    }
+    prime_key.clear();
+    for(int i = 2; i < MX; i++){
+        if(is_prime[i] == 0){
+            prime_key.push_back(i);
+        }
+    }
+}
+void work(){
+    int n,m; cin>>n>>m;
+    vector< int > nkey; nkey.clear();
+    vector< int > nnum; nnum.clear();
+    vector< int > mkey; mkey.clear();
+    vector< int > mnum; mnum.clear();
+    int tmp = n;
+    for(int i = 0; i < prime_key.size(); i++){
+        if(tmp % prime_key[i] == 0){
+            tmp /= prime_key[i]; nkey.push_back(prime_key[i]);
+            int count = 1;
+            while(tmp % prime_key[i] == 0){
+                tmp /= prime_key[i];
+                count ++;
+            }
+            nnum.push_back(count);
+        }
+    }
+    if(tmp != 1){
+        nkey.push_back(tmp);
+        nnum.push_back(1);
+    }
+    int tmp2 = m;
+    int flag = 1;
+    for(int i = 0; i < nkey.size(); i++){
+        if(tmp2 % nkey[i] == 0){
+            tmp2 /= nkey[i];
+            int count = 1;
+            mkey.push_back(nkey[i]);
+            while(tmp2 % nkey[i] == 0){
+                tmp2 /= nkey[i];
+                count ++;
+            }
+            mnum.push_back(count);
+        }
+        else{
+            flag = 0;
+        }
+    }
+    if(tmp2 != 1) flag = 0;
+    for(int i = 0; i < nkey.size();i++){
+        cout<<nkey[i]<<" " <<nnum[i]<<" "<<mnum[i]<<endl;
+    }
+    if(flag == 1){
+        int ans = 0;
+        for(int i = 0; i < nkey.size(); i++){
+            if(nkey[i] > mkey[i]) flag = 0;
+            else{
+                int tans = 0;
+                int tmp1 = nkey[i];
+                int tmp2 = mkey[i];
+                if(tmp1 == tmp2) continue;
+                while(tmp2 > 2 * tmp1){
+                    tmp1 *= 2;
+                    tans ++;
+                }
+                tans ++;
+                if(tans > ans) ans = tans;
+            }
+        }
+        if(flag){
+            cout<<ans<<endl;
+        }
+        else{
+            puts("-1");
+        }
+    }
+    else{
+        puts("-1");
+    }
+}
+int main(){
+    int _;
+    init();
+    for(int i = 0; i< 10; i++){
+        cout<<prime_key[i]<<endl;
+    }
+    while(cin>>_){
+        while(_--){
+            work();
+        }
+    }
+    return 0;
+}
+
