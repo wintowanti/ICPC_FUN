@@ -1,0 +1,42 @@
+#include<string>
+#include<vector>
+#include<cstdio>
+#include<cstring>
+#include<iostream>
+#define M 100
+using namespace std;
+class TeamSelection{
+public:
+    int mark[M];
+    string ans;
+    string simulate(vector<int > v1,vector<int > v2){
+        memset(mark,0,sizeof(mark));
+        for(int i=0;i<v1.size();i++){
+            if(i&1){
+                for(int j=0;j<v2.size();j++){
+                    int t1=v2[j];
+                    if(mark[t1]==0){
+                        mark[t1]=2;
+                        break;
+                    }
+                }
+            }
+            else{
+                for(int j=0;j<v1.size();j++){
+                    int t1=v1[j];
+                    if(mark[t1]==0){
+                        mark[t1]=1;
+                        break;
+                    }
+                }
+            }
+        }
+        for(int i=0;i<v1.size();i++){
+            ans[i]=mark[t1]+'0';
+        }
+        cout<<ans;
+    }
+};
+int main(){
+    return 0;
+}

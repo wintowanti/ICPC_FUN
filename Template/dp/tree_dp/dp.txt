@@ -1,0 +1,31 @@
+MAX increase comment subsequencs 
+O(n^2)
+#include<cstdio>
+#include<cstring>
+#define M 1080
+int dp[M][M];
+int a[M];int b[M];
+int main(){
+    int cas;while(~scanf("%d",&cas)){
+        while(cas--){
+            int n1;scanf("%d",&n1);
+            for(int  i=1;i<=n1;i++) scanf("%d",&a[i]);
+            int n2;scanf("%d",&n2);
+            for(int i=1;i<=n2;i++)  scanf("%d",&b[i]);
+            for(int i=1;i<=n1;i++){
+                int tmax=0;
+                for(int j=1;j<=n2;j++){
+                    dp[i][j]=dp[i-1][j];
+                    if(a[i]>b[j]&&dp[i][j]>tmax) tmax=dp[i][j];
+                    if(a[i]==b[j]) dp[i][j]=tmax+1;
+                }
+            }
+            int tmax=0;
+            for(int i=1;i<=n2;i++){
+                if(dp[n1][i]>tmax) tmax=dp[n1][i];
+            }
+            printf("%d\n",tmax);
+        }
+    }
+    return 0;
+}

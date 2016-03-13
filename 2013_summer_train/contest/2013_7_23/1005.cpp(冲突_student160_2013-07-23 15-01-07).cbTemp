@@ -1,0 +1,14 @@
+#include<cstdio>
+#include<queue>
+using namespace std;
+deque<int> q1;
+int main(){
+    int cas;while(~scanf("%d",&cas)){
+        while(cas--){
+            while(!q1.empty()) q1.pop_front();
+
+            int n;
+        }
+    }
+    return 0;
+}
