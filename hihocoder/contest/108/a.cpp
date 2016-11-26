@@ -42,7 +42,7 @@ struct Node{
     }
 
     void debug(){
-        printf("sid : %d size: %d flag: %d head: %d tail %d \n", sid, size, flag, head, tail);
+        printf("sid : %d size: %d flag: %d head: %d now: %d tail %d \n", sid, size, flag, head, this, tail);
     }
 };
 Node* node_union(Node * rt){
@@ -104,6 +104,7 @@ int main(){
         }
         else{
             while(free_id < i){
+                printf("free %d\n",free_id);
                 point[free_id]->free();
                 point[free_id] = node_union(point[free_id]);
                 if(point[free_id]->size >= num[i]){
@@ -114,7 +115,7 @@ int main(){
                 free_id ++;
             }
         }
-        //debug();
+        debug();
     }
     Node * tr = root;
     while(tr != NULL){
