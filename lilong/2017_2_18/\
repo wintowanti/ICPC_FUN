@@ -1,0 +1,61 @@
+#include <cstdio>
+#include <queue>
+#include <set>
+#include <vector>
+#include <iostream>
+using namespace std;
+
+const int MAX = 1e4;
+queue< int > myq;
+vector< int > number;
+vector< int > all_number;
+set < int > myset;
+void get_16(){
+    number.clear();
+    number.push_back(1);
+    number.push_back(6);
+    myq.push(1);
+    myq.push(6);
+    while(!myq.empty()){
+        int now = myq.front(); myq.pop();
+        now = now * 10 + 1;
+        if(now <= MAX){
+            myq.push(now);
+            number.push_back(now);
+        }
+        now = now * 10 + 6;
+        if(now <= MAX){
+            myq.push(now);
+            number.push_back(now);
+        }
+    }
+}
+void get_all(){
+    while(!myq.empty()) myq.pop();
+    myset.clear();
+    all_number.clear();
+    myq.push(1);
+    myset.insert(1);
+    while(!myq.empty()){
+        int now = myq.front(); myq.pop();
+        all_number.push_back(now);
+        for(int i = 0; i < number.size(); i++){
+            now = now * number[i];
+            if(now <= max){
+                if(myset.find(now) == myset.end()){
+                    myset.insert(now);
+                    myq.push(now)
+                }
+            }
+            else{
+                break;
+            }
+        }
+    }
+    print("%d\n",all_number.size())
+}
+int main(){
+    get_16();
+    get_all();
+    return 0;
+}
