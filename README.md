@@ -2,53 +2,47 @@
 just some code for acm-icpc game </br>
 I am so weak that only get four iron medal, but the most important person is happy!</br>
 
-<font size=100>``oocoocooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooocoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
-8@8888888888@8@@@88888@88@8@@@8@888@@@@@@8@@@@@@@@@@@@@@@@@@@@@@@8@@@@@8@@@@@@@@@@@@@8@8@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@8@8888888888@@8@@88@88@888888@@@@@8@@88@@88@8@88@@@@@@@8@@8@@8@@@@88@@8@@@8@8@@@@8@@88@8@8@@8@@8@@8@@@8@@8@@8@@@@@@8@8@@@@@@8@88@@@@@@@@8@@8@8@8@@@@@
-88888888888888@888@@@8888@888888@@8@@888@@88@8@8888@8@88@88@888@@8@88@@@@@8@@@@88@@@@@8@@@8@@8@@888@8@8@8888@8@@@@8@88@8@@88@8@@@@@8@8@@@88@88@88@@8@@
-8888888888@88@8@8@888@8@88888888888888888888888888888@8@8@88@@@@8888OCc:C888@@88@8@@@@@@@8@@@8@@@@@@@@8@8888@8@@8@8@8@8@8@88@8@@@8@@8@8888@888@8@8@8@8
-8888888@8@@@@8@@8888888888888888888@8888@@8@@8@8@88@8888@88@88@@@@OC:::..:.:o88@8@88@@88@888888888@@88888@8@8@@8888@8888888888@8@@88@888@88@@@8@8@8@88
-88888888888888@8888888888@888888888@888@8@@@@@@@88@@@@@88888888@@8:. .C...:c:. . .:C@88@8@@@8@8@@8888888@@@8@888@88@8@8@@8@888@8@8@88@8@88@88@8@@@88@8
-88888888888888888888888@888@88888@@8888888888888888888888@8@88@8CC    .   ...      ..:C8888888@8@@8@@@@@8@@8888@88888888@@8888@8@8@8@88@88@8@8@8@8@888
-888888888888888888888888888@888@8888888888888888888888888888888:.c          ...       .:coC@@8@8@@8@@@@@88@8888888888@8888888@888@8@8888@@8@8@88@8@@8@
-88888888888888888888888888888888@88888888@8888888888888888888@8:.  .     .         .    .o88@@@88@8888@8@888@88@88@@8@8@@8@8@@88@@@@888@8@88@88@88@8@8
-88888888888888888888888888888888@888@888888888888888888888888Occ.                         :o888@@@@@@8@@88@8@@8@8@88888888@@@@8@@@@@888@8@8@8@8@8@888@
-88888888888888888888888888888888888@8@88@888@@888888@888888888O:       .cCCCC:.  .         :cC@888@@8@8@@@8@8@8@8888@@88@88@8@@8@8@8@88@88888@8@88@888
-88888888888888888888888888888888888888@8888@@@888@@888888888888: .   :oooCCCCc.. .ccccc.....C@88@8@@88@@8@@8@@@@@@@@888@888@8888@888@8@8888@@888888888
-88888888888888888888888888888888888888888888888888@8@88888888@8C....:cccooCCCOCo: C888Oo....o88@8@8@888@@@8@@@8@@8@@8@88888888@8@88888@88888888888@888
-888888888888888888888888888o888888888888@@888888888@8888888888@8.   coooCOOO8OOO88OOO888Oo:.8@8@888@88@8@8@@8@888888888888888888@8@888888888888888@88@
-888888888888888888888888888.CCOOOO88888@88888888888888888888888@@c.:cccoocoCCOCCoCO8O888OOOO@8888@@88888888888888888888888888@88888888888888888888@8@8
-88888888888888888888888888O.:cccccc88888888888888888888888888888@8ccccocccCccoOc:.:oCooCOOOOCC88888888888888888888888888888888888888888888888888888888
-88888888888888888888888888O::ccccco88888888888888888888888888888@Coc:c:cc:cCoO8OOCCCO8888OOOO:88888888888888888888888888888888888888888888888888888888
-88888888888888888888888888O::ccccc:O@8888888888888888888888888888.occoCOOOOCcOO8OCCOO888OOOOCO88888888888888888888888888888888888888888888888888888888
-CCCCCCCCCCCCOCCCCCCCCCCCCCc:::ccoccCCOCOCOOOCOOCCCCCoOOOCCCCCCCCC:cccoCCOocCooOO8Oc:oOCOOOOOO888888888888888888888888888888888888888888888888888888888
-oooCooooCoCCCoCCCooCCCCCCCCCCCCCCCCCCCCCCOCCCCCCCCCCCooCCCCOCCCCCC:cccccoc:::::cCOC::oCCCOOOOCCCCCCCCCOCCCCCCOCOCCCCCCCCOCOCOCCCOCCCCCCOCCCOCOCCCCCCCC
-CCCCCCCCCCCCCCCCCCCCCCoCCCCCCCCCcCCCCCOCCOoooCCCCCOOCCCCCCCCCCCCCC:cccccc:::::::c::::coCCOOCOOOCCCCCCCOCOOCOCOOCOCCOCCCCCOOCCCCCCCCOCCCCCCCCCCCCOOCCCC
-CCCCCCCCCCCCCCCCCCCCOCCCCooooCCCCCCCCCCCCCCCCCCCCCCCCCoCCooooCCCCCocccooC:. ..::::.c:oCCCCCCCCOCCCOCCCCCCCOCCOCCCCOCOCoCCCOCCCoCOCCCCCCCOCCCCCCCCOOOOO
-CCCCCCCCCCoooooooCCCCCCCCCCCCCoCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCoccccccc::coCOOOCcoCoooCC..  coCCCCCCCCCCCCCCCCOOOOOOOOOOOCOOOOOOOCCOCCCCOOCCCCCOOC
-CCCCCCCCCCCCCCCCCCCOCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCo:cccccccccccCOOCCoCoo:...   .::CCCCCCCCCCoCCCCCCCCCOCOOCOOCCCOCCCCCCOCCOCCCCOCCOC
-CCCCCCCCCCCCCCCCCCoCCCCCCCCCCCCCCCCCCCCoCCoCooCCCCCCCoocCOCCCOOOCCCCCC::::oooCOOO88OooCo:.....    .......:::cOOCCOCCCCCCCCCCCCOCCCCCCCCCCCCCooCCCCCOCC
-CCCCCCCCCCCCCCCCCCCoCCCCCCCCCCCCCCCCOCCCCCCcoCoCCCCCCCCCCCCCCCCCCCCoo  ::::::::::::co:........    .............:.cOOoCOOCOCOCOOOOOOOOOOCCCCCCCCCCCCCCC
-CCCCCCCCCCCoCoCCCCCCCCCCCooCCoCCCCCCCCCCCCooCCCocoooooCCCCCCCCCCCc     . .::::::::.. ........    ...............   .COOOOOOOOCCCCOOOocCCCCCCCOCOOCOCCO
-ooCCCCCCoCCoCCCCCCooCCCCoCCCCCCCCCOCCCCCooCoCCCOCOOOCCCCCCOOOc          :...... c ..........   .................:....CCCCCCCCCCCCCoc::c:cc::COCCCOCCoo
-CCCCCoCCCCCCCCooCCCCCoCCCCoCCoCCCCoooooCCCCoCCCoocccooCCCo:.             .o  .c  ..........   ........... ..    .....cooCCOCCCOCCCCCCOOOOCCCCCCCCCCCOC
-ooc::c::ccCCooCCCCCCCCCCCCCCCOCCOCCooCCCCCCCCCCCCoCCCCOo                         .........  ............     ........:ccocccCCoCCCCCCCCCoCCCOOCCOOOCCC
-CCOCCCCCOCCCCCCCCCCOCCCCCCCOCCCCCCCCCCOOCoCooCCCooCCCCC                          .......    ..... ... .    ............:oCCooccoCCCoooCCCooooCCCCCCOOO
-CCCCCCCCooCCCoCoCoooCCCCoocooooCCCoocccccCCCocococccc:C                          .....    ..... ... . . ... ...........:.cCCoCCCCooCO8O8O8O8@OCCoccCOC
-coCCCooooCCCCCoccoCCCCCCCCCCCCCCCCCCCCCCCCOCCCoCCCCCCCO                               .     . ...... .   .................CCCCOCCCCCCCCCCCCCooCCCC88OO
-cccc:coocccccoC8@C@C8@OCoCCCCCCC@OCCooCCCCC8@8888@OoCoC   .oO@@o     888O8OO88C   : :@o @@ .....  @@O88@@  ...OOOOOOOO8C...cOCCO@CCCCCoooCoCCCoooccooc
-CCCoccoooooccco@88@8@@@@ocoooccc@ocoo::CCoo@@CCCC@OCCC.8888@@8888.   .@O@8@@8@   .:88O8o@C:@..... @@OOO8@.......@8..@8......coo@888CCCCCoCCCooCCCCCoCC
-ccoCCCCoooCCCC@@8o@O@C@OCCooCooo@OooooocCoCOOCCCC8OCoc  @@8@@8@8      @.@oOO:@   .:@cc@8C .@.     @8:c:O@    ...@8..@O.......@@@8o@C@CCCCCCCCCCCCCCCCo
-ooocccccoCoCCCC@8@@@8C@CoCoooccC@OcoooooooC@88@88@@C.   @8C@@C@@      8 o@. :8     @@O@C8o.@.   o8@@8@@@@8O  ...@8..@8.......@8@8ooo88cccccCoCoCCCooCC
-cccccc:ccccc:cC@O@o@C@@CCoCoccc@C@C:cooccco@88@C8@8     @Oc@@o88   . ..C@::@O..    @:.@C.C:@.     @c.@8CCo...   @O  @O  .....@O@8oC8C@OCCCCCCCCCCooCCC
-coooCCoCCCoCCoO@8@8@C@@CCoCCoC@oCo@@OcccccC@88@o@@     o88O@@888.     cOC@@@       @oc@C  .@.    .@C @o        o8   @8 .... 8C.@8CC@OOCooCCOCCCCCCCCCC
-CCCCCCoCocc.CCC@OCC8CCo8CCC8OCooCoCCOCCCCooCCO@8o oO   ococcococo.   Oo      :c    .. .. OC.    oo  CO8OOOc   :     c: ........oCC88CoooooCooooCoocccc
-ooccccc:ococccooCocc:cccccccccoooCCCCCCoooccococ:                                       .Cc:..     .                 .    .   ....:CCCCCoCCCCCCCCCCCCC
-oooo8Occ@oooococoooooccccccccccccc::c:C@.cocC:                      @           8C         :c:..                   ..     ...     :::c:oooooooCCCCCCC
-ooco@Oco@oc@C@oC@CCC@Oo8@co@O@oc@8@c:8C@ccoO8@o O8  @ @. @8@: C8O@.. 8  @ @. @O8C  .@. 8C@ :@c@oc@ :8O8 :@C@  :  C@@ .8 . c.@C8 :@C@.:@o@Cc8@@OC@8C
-Cooo@OcC@cc@8@ccococ@cc88oo@8@cc88::C@O@:::O8@: CO .@.@  8@@  :@O@ .@:@OC@8@8C@8@8occ@. O@@  : @::o:8@@o  @O@  @:  CO .C@:..@..8O@:.@O@co@O@Co8@o@8OOC
-:c:cCocoCooCocoo:ccco:.cCoCOooOOCoOOOooCOooc::  :: .c @.:.  :o: :ccoOOOCooooCOOOO8888@88OOOoc. c  :oo..:oo..:  :   :c:oo.   c..c:co.o88Cooo@OCoooO8coo
-ccooccccccc:cccc::...::.::::c:ccoooccccc::..             .oCOOOOCCooCCOCOOOC:.:::cc:c8O888888C.................. .             .... cooooc:..:oCCCCcoc
-::::::c:::cc:c:::.....:.:::::::::::.:.:......            coCCoooccccooococoocCOOOOO88888888888o...... .                           .:CCoCCCCCooooc::ccc``</font>
+<font size=100>
+``
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+................... ..... ...     .. .  .. .. .                                
+.................................  .........   .. ... ...   ...  . . .  .....  
+................................. .(*%#*.. .............. ........  ......   ..
+..................................#@&@&%@@@%, ........  .......... ............
+................................,(@@@%@@@@@@@@&.. ..   ..... ............... ..
+................................/%@@@@&&&@@@@@@&*..............................
+.................................&@@((/*(&&(/#&&(..............................
+.................................(@%(/*,,,.*,,,%...............................
+.............*%(((................(#((/(/(%#//,,*..............................
+............./%(((................((/,,/*,,,,,,,/,.............................
+//**/////,*//((((///(//////(****/*##(/#%%#/#(***,*****************,*,,,,,,,,,,,
+*/***//******//***********//*/***//##/%%/.(******,**/************************
+*//**/******///***/****************##((##(/*////&@@%//************//***********
+*************/*******//***////*******%%//***(/&&&&@&&&&&%#/******************//
+*/*//(/****///*////*/////(*******(@@@&&%%%%@&&&&&@@&&&&&&&&&@*,******/(***,****
+/*/**/////////*/////**(*/(((**&@@@@@@@&@&&&&&&&&@&&&&&&&&@@&&%/**,***********/*
+***************////**/((****(@@@@@@@@@@@@@&&&&@@&&&&&&@@&&&&%%%///#//(/*((*****
+/////*////**////*******//***(@@@@@@@@@@@@@@@@@@&&&&&&&@@&&&&&&&&/***/****///*.*
+((//((% *. *((#% #//(( ,..*(&&@,@@@@#&%/#@@(,# &&&&/%@.&&&& & &&&/*.,,***//*/(*
+##///// ,*,.(#(# #(((* .,,.&@ &,,&@&*,.. @@,@ *##@@#%&/@&&, , ,&&&  /**///*///#
+(#%%##(  .*(((#,( ((// ./ @@@&@.&&@@@ @ @@@.& @##@&.@ &@@&&,@ @@@&, *. //**/*//
+/(//(%#****/*/(((///////*#@@@@@@@@@@@@@@@@@@&&@@@@@&@@@@@@@@@@@@&&&&(/((////(//
+/*#.//(*//(/(/(*/(((*#(%#@#(@%%@@.@&.@%(%&/%&@&%@&%@@@#&& #&%((*//,**/,
+/*(.(  #(#./***#,(#.*%. @ &*.@.@&.,*  ,  /.@..@&*(% #&/@*@@ & &.**,(  / . *
+((#((###%&%%%%##(/((#%&@@@@@@@(*,*//**,*%%(%*,,..&&&&&&&&&&&@@@@@@@&&@/(#%%///(
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+``</font>
 # ^V^
 ## but thank for all people who help or support me! 
