@@ -2,47 +2,53 @@
 just some code for acm-icpc game </br>
 I am so weak that only get four iron medal, but the most important person is happy!</br>
 
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-,,,,,,,,,,,,,,,,,,,,,,,,.,,,,,,,,.,,,,,,,,,,,,,,.......,,,,,.,,,,,,,...,,..,,...,,...,,,,,,,,,......
-::::::,,::,,,,,,,:,:,:,,,,,,,,:,,,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-:::::::::,,,,,:::::,,,:,:,,,::::,,,,,,,,,,,,::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-:::::,,:,,,,,,,::::,,,,:,::,::::,,,,,,,,:,,,=O:~,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-:::::::::,::::::::::,:,:,,,,,,,::,,,,,,,,,,~7O8DN8~:~::,,:,,::::,::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-::::::,,,::::::::::,:::,,,,,,,,:,,,,,,,,:,,MNNODZZDNNMZ::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,::
-::::::::::::::::::,,,,,,,,,,,,,,,,,,,,,,,:OMMNMMNNNMMMMMM+:,:,,,,,,,,,,,:,,,,,,,,,,,,,,,,,,,,,,,,,,,
-::::::::::::::::::,,,,,,,,,,,,,,,::,,,::,DMMMNNMMMMMMMMMND8:,,,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-::::::::::::::::::::,,,,,,,,,,,:,,,:,:::~OZNMMMMMMMMMMMMMMN7~,,,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-::::::::::::::::::::::,,,,,,::,,,:,,,:,:=DMMMMM8II7NMDMMMMNNO~,,:,,,,,,,,,::,,,,,,,,,,,,:::,,,,,,,,,
-:::::::::::::::::::::::,,,,,,:,:,::,,:,,:OMMM8$7??I8N8ZZZNNNO,,,,,,,,,,,,,,,,,,,,,::::,,:::,,,,,,:::
-::::::::::::::::::::::::::::::::,::,:::,:~NNN$$7??++7M===7NNN:,:,,::,,,,,,,::,,:,:::::::::::::,,,,,,
-:::::::::::::::::7:::::::::,:::::::::::::,NM8$?+++===?I+~=+I~:,,,,,,,,,,,::::::::::::,,,:::::,,,,,,,
-:::::::::::::::::8O7$7I::::::::::::::::::,.8Z$?++$7+7I??~===:::::::::::::::::::::::::::::::::::::,,,
-~~::::::~~:::~::~8O$$$$:::::::::::::::::::,ZZ887+77~ZZ$7~==++D::::::::::::::::::::::::::::::::::::::
-~~~~~~::~~~~~~~~~OO$$$Z:::::~:::::::::::::IZ$7==+?I~~++=~~=+$I::::::::::::::::::::::::::::::::::::::
-??????+++++??++??88$$$Z?++++++++??+==++????$ZI?+O?I+~+O7+++==~::::::::::::::::::::::::::::::::::::::
-7I$$?I??I++I????I?????II???+???????7I?+?+I?OZZZ$O8O8?=7DI?+++I?++++++?++++++++++++++++++++++++++++++
-++??+?+????II7II+++?I??++++7????I???+++?I7?OZZZ$8DZZ?IN8I?++++++=++++++++++++????+=++?+++?+?++++++?+
-??+++++I7?+??+?+I?I?++???+?++++?????=+?+++?IZZ$7$8$7=?=8I777??++?+??++??++?I??+?+??==+++++???+I++?++
-?????I????????Z$II?++?I??+??????+++=+=+?++++?ZZZZZOOZI+I77IIDDMN8I=++==++I7+??++++??+++++?????I+++++
-I??++????I?I???????????++I?I77+?++I7I++++++?++8O77?+=~~II7DDDDMNNNDDD8O?++?+?+?????+????++++7I??+=++
-?II??????????II???++++++++?II?I+????+??????IINMO88O88D8IDDDDDDMMNNDDDDDDD8Z~I?+++=+===+=+?+?????I?I?
-????II77II++?I?I???II7Z?+?IIIII77+?+??++??NMMMMND8D88DNNNDDDDMNNNNNNNDNDDNNN$++++++?+++$I+Z??=+=+??=
-$$II77III77??I7?++?+??II??????II++???+=7MMMMMMMZNDNNODNNNDNDMMNNNNNNDNDDDNMMM=+++?+I??I7$77IIII?++++
-ZZZI77?????+??I?I??7I?+++I?+I??7Z7?I7NMMMMMMMMMMMMMMNNNNDDNMMNNNDNNNNNDMNDDD8M$$7ZIII++??=+++++?+??+
-?IIII??????+???I+I7+I$I+II$OOOI?+???MMMMMMMMMMMMMMMMMNNNDDMMNNNNNNNNMMMNDDDDD8D7$$IZZI+77ZI7I??+++77
-?????I++?I77I?+I77$I??I$77I?7$777$O+MMMMMMMMMMMMMMMMMDNNNMMNNNNNNNNNMDNNNDDDD8D8$?I??7?+~,,:.+?I$?+?
-I?I7II?7IZO??++???++?+??I??++?I??++=MMMMMMMMMMNMMMMMMMMMMNNNNNNNNNNNMN8DDNNNDDDDO+?+???+??IIII?+?:++
-ZOZZ7777I=,,I.++?+??,~?7I?77.,:,,Z$?M7,,.,MMM.,...,.NN$8.N.MNDNND,::,MND8,,...,8DO+7?+I?7ZZ7$7I?II$I
-???I777I7.$,7=,Z7I77,=I$Z$$+,I++,?+MD8Z.Z8OMMM..$,.DMN$,,O,:,NNNM,$$.MDDNN,N??NNDD=+:~:+I7+?I?I7I$ZI
-OO7I??I7~,=:=$,$Z$ZZ,+$$$7$~,=,===DM$=O.N.NMNM.,:..DMN$7+?MM,MMMM+MM=MND::,:.:,DDDI=,I+.II?II=?I?$Z$
-77III$II$.~I.,,$$I?I,.I77ODD.7,=.DMM$,=.:.MMD..,,,.,NN$7+Z.8,NMNO?=OMNMMMM,M??DDDDII,$I~:7II?II?7I++
-I7II?I7?7.~~.,,?I?I:7$,?ZOZ$,~,,=MMM..,...MMNM,+,,MMMM$I+ZMN,NNN~+=OMMMMM++N+?NNND.8,?=+III?+?+?I???
-III77$O$I:??:??I?~?I?II=?III??:7NIMMDDD8DD8MNIDMMMNZMMNNNDO$MMM?NMI?I?MMNMMMMNNDDDDN$I=?7I7IIIII7$77
-77I7$7$ZO$I$ZZ$$ZOOZI$II?$II777MMMMMMMMMNMMMMMMMMMMMMMMMM8O+8OMMMNNMMMMMMMMMNNDDMNNMDN+=+???I???????
-?7,$I~.+:.?7::.=.:7,,O,,,,:Z:,,.:.I.,.M..O......D....,8N.,$$,=.,,.,D..M..,MM.,.~DD..:~.~,.,Z.,,,?,+I
-7I,7=77~,:~?~?I,7,,ZO::,7.8Z,.M$DN..M=,MM,.M+M:??:N,OZMM?M,.~+,Z8.:,MM,.M.MM.?,=NM=M.=,..ZII,Z,+7=+$
-$Z:$=?7~,:OO=ZZ,7,Z,,7.,+,~7,:M$DN:,,=M:.N,N?,,~::~:+:~=,,=I:7.NZ,,N,,M,M,NN.,,=ND~N,,.,,:,Z,,~7,Z7I
-77OO$7$ZZZODDOO8OOZOZI77$$ONMMMMNMMMMNI===II7?++++$D878?~~~~~?DDDDDDDDDDDDDMMMMNNNMNNDNI7$78D$7?I7$N
-888888OO88O8DD88DDDDDDDDDDD88MMMMMMMM8$$$ZOZZ$ZZ$$$II?IIIIIIIINNNNNNMMNNNNNNNMMMMMMMMMNZ$Z$$$ZZOZOOO
+<font size=100>``oocoocooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooocoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+8@8888888888@8@@@88888@88@8@@@8@888@@@@@@8@@@@@@@@@@@@@@@@@@@@@@@8@@@@@8@@@@@@@@@@@@@8@8@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@8@8888888888@@8@@88@88@888888@@@@@8@@88@@88@8@88@@@@@@@8@@8@@8@@@@88@@8@@@8@8@@@@8@@88@8@8@@8@@8@@8@@@8@@8@@8@@@@@@8@8@@@@@@8@88@@@@@@@@8@@8@8@8@@@@@
+88888888888888@888@@@8888@888888@@8@@888@@88@8@8888@8@88@88@888@@8@88@@@@@8@@@@88@@@@@8@@@8@@8@@888@8@8@8888@8@@@@8@88@8@@88@8@@@@@8@8@@@88@88@88@@8@@
+8888888888@88@8@8@888@8@88888888888888888888888888888@8@8@88@@@@8888OCc:C888@@88@8@@@@@@@8@@@8@@@@@@@@8@8888@8@@8@8@8@8@8@88@8@@@8@@8@8888@888@8@8@8@8
+8888888@8@@@@8@@8888888888888888888@8888@@8@@8@8@88@8888@88@88@@@@OC:::..:.:o88@8@88@@88@888888888@@88888@8@8@@8888@8888888888@8@@88@888@88@@@8@8@8@88
+88888888888888@8888888888@888888888@888@8@@@@@@@88@@@@@88888888@@8:. .C...:c:. . .:C@88@8@@@8@8@@8888888@@@8@888@88@8@8@@8@888@8@8@88@8@88@88@8@@@88@8
+88888888888888888888888@888@88888@@8888888888888888888888@8@88@8CC    .   ...      ..:C8888888@8@@8@@@@@8@@8888@88888888@@8888@8@8@8@88@88@8@8@8@8@888
+888888888888888888888888888@888@8888888888888888888888888888888:.c          ...       .:coC@@8@8@@8@@@@@88@8888888888@8888888@888@8@8888@@8@8@88@8@@8@
+88888888888888888888888888888888@88888888@8888888888888888888@8:.  .     .         .    .o88@@@88@8888@8@888@88@88@@8@8@@8@8@@88@@@@888@8@88@88@88@8@8
+88888888888888888888888888888888@888@888888888888888888888888Occ.                         :o888@@@@@@8@@88@8@@8@8@88888888@@@@8@@@@@888@8@8@8@8@8@888@
+88888888888888888888888888888888888@8@88@888@@888888@888888888O:       .cCCCC:.  .         :cC@888@@8@8@@@8@8@8@8888@@88@88@8@@8@8@8@88@88888@8@88@888
+88888888888888888888888888888888888888@8888@@@888@@888888888888: .   :oooCCCCc.. .ccccc.....C@88@8@@88@@8@@8@@@@@@@@888@888@8888@888@8@8888@@888888888
+88888888888888888888888888888888888888888888888888@8@88888888@8C....:cccooCCCOCo: C888Oo....o88@8@8@888@@@8@@@8@@8@@8@88888888@8@88888@88888888888@888
+888888888888888888888888888o888888888888@@888888888@8888888888@8.   coooCOOO8OOO88OOO888Oo:.8@8@888@88@8@8@@8@888888888888888888@8@888888888888888@88@
+888888888888888888888888888.CCOOOO88888@88888888888888888888888@@c.:cccoocoCCOCCoCO8O888OOOO@8888@@88888888888888888888888888@88888888888888888888@8@8
+88888888888888888888888888O.:cccccc88888888888888888888888888888@8ccccocccCccoOc:.:oCooCOOOOCC88888888888888888888888888888888888888888888888888888888
+88888888888888888888888888O::ccccco88888888888888888888888888888@Coc:c:cc:cCoO8OOCCCO8888OOOO:88888888888888888888888888888888888888888888888888888888
+88888888888888888888888888O::ccccc:O@8888888888888888888888888888.occoCOOOOCcOO8OCCOO888OOOOCO88888888888888888888888888888888888888888888888888888888
+CCCCCCCCCCCCOCCCCCCCCCCCCCc:::ccoccCCOCOCOOOCOOCCCCCoOOOCCCCCCCCC:cccoCCOocCooOO8Oc:oOCOOOOOO888888888888888888888888888888888888888888888888888888888
+oooCooooCoCCCoCCCooCCCCCCCCCCCCCCCCCCCCCCOCCCCCCCCCCCooCCCCOCCCCCC:cccccoc:::::cCOC::oCCCOOOOCCCCCCCCCOCCCCCCOCOCCCCCCCCOCOCOCCCOCCCCCCOCCCOCOCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCoCCCCCCCCCcCCCCCOCCOoooCCCCCOOCCCCCCCCCCCCCC:cccccc:::::::c::::coCCOOCOOOCCCCCCCOCOOCOCOOCOCCOCCCCCOOCCCCCCCCOCCCCCCCCCCCCOOCCCC
+CCCCCCCCCCCCCCCCCCCCOCCCCooooCCCCCCCCCCCCCCCCCCCCCCCCCoCCooooCCCCCocccooC:. ..::::.c:oCCCCCCCCOCCCOCCCCCCCOCCOCCCCOCOCoCCCOCCCoCOCCCCCCCOCCCCCCCCOOOOO
+CCCCCCCCCCoooooooCCCCCCCCCCCCCoCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCoccccccc::coCOOOCcoCoooCC..  coCCCCCCCCCCCCCCCCOOOOOOOOOOOCOOOOOOOCCOCCCCOOCCCCCOOC
+CCCCCCCCCCCCCCCCCCCOCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCo:cccccccccccCOOCCoCoo:...   .::CCCCCCCCCCoCCCCCCCCCOCOOCOOCCCOCCCCCCOCCOCCCCOCCOC
+CCCCCCCCCCCCCCCCCCoCCCCCCCCCCCCCCCCCCCCoCCoCooCCCCCCCoocCOCCCOOOCCCCCC::::oooCOOO88OooCo:.....    .......:::cOOCCOCCCCCCCCCCCCOCCCCCCCCCCCCCooCCCCCOCC
+CCCCCCCCCCCCCCCCCCCoCCCCCCCCCCCCCCCCOCCCCCCcoCoCCCCCCCCCCCCCCCCCCCCoo  ::::::::::::co:........    .............:.cOOoCOOCOCOCOOOOOOOOOOCCCCCCCCCCCCCCC
+CCCCCCCCCCCoCoCCCCCCCCCCCooCCoCCCCCCCCCCCCooCCCocoooooCCCCCCCCCCCc     . .::::::::.. ........    ...............   .COOOOOOOOCCCCOOOocCCCCCCCOCOOCOCCO
+ooCCCCCCoCCoCCCCCCooCCCCoCCCCCCCCCOCCCCCooCoCCCOCOOOCCCCCCOOOc          :...... c ..........   .................:....CCCCCCCCCCCCCoc::c:cc::COCCCOCCoo
+CCCCCoCCCCCCCCooCCCCCoCCCCoCCoCCCCoooooCCCCoCCCoocccooCCCo:.             .o  .c  ..........   ........... ..    .....cooCCOCCCOCCCCCCOOOOCCCCCCCCCCCOC
+ooc::c::ccCCooCCCCCCCCCCCCCCCOCCOCCooCCCCCCCCCCCCoCCCCOo                         .........  ............     ........:ccocccCCoCCCCCCCCCoCCCOOCCOOOCCC
+CCOCCCCCOCCCCCCCCCCOCCCCCCCOCCCCCCCCCCOOCoCooCCCooCCCCC                          .......    ..... ... .    ............:oCCooccoCCCoooCCCooooCCCCCCOOO
+CCCCCCCCooCCCoCoCoooCCCCoocooooCCCoocccccCCCocococccc:C                          .....    ..... ... . . ... ...........:.cCCoCCCCooCO8O8O8O8@OCCoccCOC
+coCCCooooCCCCCoccoCCCCCCCCCCCCCCCCCCCCCCCCOCCCoCCCCCCCO                               .     . ...... .   .................CCCCOCCCCCCCCCCCCCooCCCC88OO
+cccc:coocccccoC8@C@C8@OCoCCCCCCC@OCCooCCCCC8@8888@OoCoC   .oO@@o     888O8OO88C   : :@o @@ .....  @@O88@@  ...OOOOOOOO8C...cOCCO@CCCCCoooCoCCCoooccooc
+CCCoccoooooccco@88@8@@@@ocoooccc@ocoo::CCoo@@CCCC@OCCC.8888@@8888.   .@O@8@@8@   .:88O8o@C:@..... @@OOO8@.......@8..@8......coo@888CCCCCoCCCooCCCCCoCC
+ccoCCCCoooCCCC@@8o@O@C@OCCooCooo@OooooocCoCOOCCCC8OCoc  @@8@@8@8      @.@oOO:@   .:@cc@8C .@.     @8:c:O@    ...@8..@O.......@@@8o@C@CCCCCCCCCCCCCCCCo
+ooocccccoCoCCCC@8@@@8C@CoCoooccC@OcoooooooC@88@88@@C.   @8C@@C@@      8 o@. :8     @@O@C8o.@.   o8@@8@@@@8O  ...@8..@8.......@8@8ooo88cccccCoCoCCCooCC
+cccccc:ccccc:cC@O@o@C@@CCoCoccc@C@C:cooccco@88@C8@8     @Oc@@o88   . ..C@::@O..    @:.@C.C:@.     @c.@8CCo...   @O  @O  .....@O@8oC8C@OCCCCCCCCCCooCCC
+coooCCoCCCoCCoO@8@8@C@@CCoCCoC@oCo@@OcccccC@88@o@@     o88O@@888.     cOC@@@       @oc@C  .@.    .@C @o        o8   @8 .... 8C.@8CC@OOCooCCOCCCCCCCCCC
+CCCCCCoCocc.CCC@OCC8CCo8CCC8OCooCoCCOCCCCooCCO@8o oO   ococcococo.   Oo      :c    .. .. OC.    oo  CO8OOOc   :     c: ........oCC88CoooooCooooCoocccc
+ooccccc:ococccooCocc:cccccccccoooCCCCCCoooccococ:                                       .Cc:..     .                 .    .   ....:CCCCCoCCCCCCCCCCCCC
+oooo8Occ@oooococoooooccccccccccccc::c:C@.cocC:                      @           8C         :c:..                   ..     ...     :::c:oooooooCCCCCCC
+ooco@Oco@oc@C@oC@CCC@Oo8@co@O@oc@8@c:8C@ccoO8@o O8  @ @. @8@: C8O@.. 8  @ @. @O8C  .@. 8C@ :@c@oc@ :8O8 :@C@  :  C@@ .8 . c.@C8 :@C@.:@o@Cc8@@OC@8C
+Cooo@OcC@cc@8@ccococ@cc88oo@8@cc88::C@O@:::O8@: CO .@.@  8@@  :@O@ .@:@OC@8@8C@8@8occ@. O@@  : @::o:8@@o  @O@  @:  CO .C@:..@..8O@:.@O@co@O@Co8@o@8OOC
+:c:cCocoCooCocoo:ccco:.cCoCOooOOCoOOOooCOooc::  :: .c @.:.  :o: :ccoOOOCooooCOOOO8888@88OOOoc. c  :oo..:oo..:  :   :c:oo.   c..c:co.o88Cooo@OCoooO8coo
+ccooccccccc:cccc::...::.::::c:ccoooccccc::..             .oCOOOOCCooCCOCOOOC:.:::cc:c8O888888C.................. .             .... cooooc:..:oCCCCcoc
+::::::c:::cc:c:::.....:.:::::::::::.:.:......            coCCoooccccooococoocCOOOOO88888888888o...... .                           .:CCoCCCCCooooc::ccc``</font>
 # ^V^
 ## but thank for all people who help or support me! 
