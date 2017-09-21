@@ -35,25 +35,15 @@ int adjust_array(int array[], int l, int r){
         int temp = array[l];
         int i = l;
         int j = r;
-        /*
         while(i < j){
             while(i < j && array[j] >= temp) j--;
             if(i < j) array[i++] = array[j];
             while(i < j && array[i] < temp) i++;
             if(i < j) array[j--] = array[i];
         }
-        */
-        
-        
-        while(i < j){
-            while(i < j && array[j] >= temp) j--;
-            while(i < j && array[i] <= temp) i++;
-            if(i < j) swap(array[j], array[i]);
-        }
-        
         //i is split index of array 
-        swap(array[l], array[j]);
-        return j;
+        array[i] = temp;
+        return i;
     }
     return -1;
 }
